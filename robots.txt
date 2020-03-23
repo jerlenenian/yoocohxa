@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aithuceew.taoyuanxiao7.com/sitemap.xml
